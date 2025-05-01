@@ -4,7 +4,12 @@ FEATURES:
 
 IMPROVEMENTS:
 
+- core: Improve error messages on box add failures [GH-13660]
+
 BUG FIXES:
+
+- command: Remove server mode checks [GH-13657]
+- provider/virtualbox: Fix VirtualBox private network setup [GH-13659]
 
 ## 2.4.5 (April 23, 2025)
 
